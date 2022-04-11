@@ -4,3 +4,9 @@
 ```python
 python3 main.py
 ```
+
+##Testing
+
+```python
+python3 eval.py --path ./save_dir/LeNet/best_model.pt --test_anno 'json file that you want to test on'
+```
