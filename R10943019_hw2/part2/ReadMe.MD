@@ -1,5 +1,6 @@
 # How to reproduce my code
 ## training
-`python
+
+```python
 python3 main.py
-`
+```
