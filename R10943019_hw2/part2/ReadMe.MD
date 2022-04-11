@@ -8,7 +8,7 @@ python3 main.py
 ## Testing
 
 ```python
-python3 eval.py --path ./save_dir/efficient/best_model.pt --test_anno ./data/annotations/public_test_annos.json
+python3 eval.py --path ./save_dir/efficient/best_model.pt --test_anno ./p2_data/annotations/public_test_annos.json
 ```
 > you can change the test_anno path to the dataset you want to test on 
 > 
